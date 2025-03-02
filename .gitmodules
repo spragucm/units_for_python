@@ -1,0 +1,3 @@
+[submodule "pyunitwizard"]
+	path = pyunitwizard
+	url = https://github.com/uibcdf/pyunitwizard.git
