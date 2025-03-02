@@ -1,3 +1,6 @@
 [submodule "pyunitwizard"]
 	path = pyunitwizard
 	url = https://github.com/uibcdf/pyunitwizard.git
+[submodule "pint-unit-investigation"]
+	path = pint-unit-investigation
+	url = https://github.com/gkjohnson/pint-unit-investigation.git

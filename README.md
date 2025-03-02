@@ -7,3 +7,6 @@ Strongly typed unit classes allow user to indicate and enforce default unit type
 It includes git submodule for [PyUnitWizard](https://github.com/uibcdf/pyunitwizard) by [uibcdf](https://github.com/uibcdf/pyunitwizard/commits?author=dprada)
 in order to include a standardized API for working with different forms of physical quantities in Python when using [openmm.unit](https://github.com/openmm/openmm/tree/master/wrappers/python/simtk/unit), [Pint](https://pint.readthedocs.io/en/stable/), or [unyt](https://unyt.readthedocs.io/en/stable/).
 
+It includes git submodule for [pint-unit-investigation](https://github.com/gkjohnson/pint-unit-investigation) by [gkjohnson](https://github.com/gkjohnson) in order to
+include basic scripts to investigate the available data that can be extracted from Pint for use in autocomplete UIs and the possible problems involved in custom unit definition.
+
